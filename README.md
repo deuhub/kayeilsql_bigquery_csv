@@ -6,5 +6,5 @@ The contents of this repository are:
 3. the CSV files for the Tables of the Training Database of "Kaye is Learning SQL".  
 
 "Kaye is Learning SQL" resides in the following GitHub Pages.
-https://deuhub.github.io/KayeILSQL-00-Introduction/
 
+https://deuhub.github.io/KayeILSQL-00-Introduction/
