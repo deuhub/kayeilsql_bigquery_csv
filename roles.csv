@@ -1,0 +1,13 @@
+role_id,role_code,role_title,min_salary,max_salary,role_multiplier,detailed_description
+30,PG_COCHAIR,Co-Chair of the Political Group,,,0.6,Some Political Groups of the EP have two Co-Chairmen instead of a Chairman. This role is held by the Co-Chairmen of a Political Group. There will be more than one person with this role in the EP. Co-Chairs are part of the Conference of Presidents.
+60,QUAESTOR,Quaestor of the Bureau,,,0.2,MEPs who are also Quaestors are part of the Bureau. There are currently 6 Quaestors.
+80,EP_MEMBER,Member of the Parliament,,,,
+10,PRES,President of the EP,,,1.0,This role is only held by the President of the EP.Hence only by one person.
+180,SUBSTITUTE,Substitute,,,,This is the Substitute of an EP Committee or an EP Delegation.
+140,VICE_CHAIR,Vice Chairman,,,,This is the Vice-Chairman/Vice-Chairwoman of an EP Committee or an EP Delegation.
+170,MEMBER,Member,,,,This is the Member of an EP Committee or an EP Delegation.
+110,CHAIR,Chairman,,,,This is the Chairman/Chairwoman of an EP Committee or an EP Delegation.
+20,PG_CHAIR,Chair of the Political Group,,,0.8,This role is held by the Chair[Chairman or Chairwoman] of a Political Group. There will be more than one person with this role in the EP. Chairs are part of the Conference of Presidents.
+70,PG_VICE_CHAIR,Vice-Chairman of the Political Group,,,0.4,
+50,VICE_PRESIDENT,Vice President of the Bureau,,,0.2,MEPs who are Vice Presidents make up the Bureau. There are currently 14 Vice Presidents.
+40,OBS_CONF_PRES,Observer for the Non-attached members,,,0.2,"This role is for the MEP, who presents NI(Non-attached members) in the Conference of Presidents."

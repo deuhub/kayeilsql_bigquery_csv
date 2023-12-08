@@ -1,0 +1,38 @@
+delg_id,delg_code,delg_type,delg_name,about,contact_email,institute_id
+10,D-HR,DELG_JPC,EU-Croatia,about,xp-euro@europarl.europa.eu,300
+20,D-MK,DELG_JPC,EU-Former Yugoslav Republic of Macedonia,about,xp-euro@europarl.europa.eu,300
+30,D-TR,DELG_JPC,EU-Turkey,about,xp-euro@europarl.europa.eu,300
+40,D-MX,DELG_JPC,EU-Mexico,about,xp-dele@europarl.europa.eu,300
+50,D-CL,DELG_JPC,EU-Chile,about,xp-dele@europarl.europa.eu,300
+60,D-RU,DELG_PCC,Russia,about,xp-euro@europarl.europa.eu,300
+70,D-UA,DELG_PCC,Ukraine,about,xp-euro@europarl.europa.eu,300
+80,D-MD,DELG_PCC,Moldova,about,xp-euro@europarl.europa.eu,300
+90,DSCA,DELG_PCC,"Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Turkmenistan and Mongolia",about,@europarl.europa.eu,300
+100,DCAS,DELG_PCC,"Armenia, Azerbaijan and Georgia",about,DCAS@europarl.europa.eu,300
+110,DEEA,DELG_OTHER,"Switzerland, Iceland and Norway and European Economic Area(EEA)",about,,300
+120,DSEE,DELG_OTHER,South-East Europe,about,,300
+130,D-BY,DELG_OTHER,Belarus,about,,300
+140,D-IL,DELG_OTHER,Israel,about,,300
+150,DPLC,DELG_OTHER,Palestinian Legislative Council,about,,300
+160,DMAG,DELG_OTHER,Maghreb,about,,300
+170,DMAS,DELG_OTHER,Mashreq,about,,300
+180,DGUL,DELG_OTHER,"Gulf States, Yemen",about,,300
+200,D-IR,DELG_OTHER,Iran,about,,300
+210,D-US,DELG_OTHER,United States,about,,300
+220,D-CA,DELG_OTHER,Canada,about,,300
+230,DCAM,DELG_OTHER,Central America,about,,300
+240,DAND,DELG_OTHER,Andean Community,about,,300
+260,DMER,DELG_OTHER,Mercosur,about,,300
+280,D-JP,DELG_OTHER,Japan,about,,300
+310,DCN,DELG_OTHER,People s Republic of China,about,,300
+330,DSAS,DELG_OTHER,South Asia,about,,300
+370,D-IN,DELG_OTHER,India,about,,300
+380,D-AF,DELG_OTHER,Afghanistan,about,,300
+385,DASE,DELG_OTHER,"South East Asia, ASEAN",about,,300
+390,DKOR,DELG_OTHER,Korean Peninsula,about,,300
+410,DANZ,DELG_OTHER,Australia and New Zealand,about,,300
+420,D-ZA,DELG_OTHER,South Africa,about,,300
+430,DNAT,DELG_OTHER,NATO,about,,300
+440,ACP-EU,DELG_JPA,Africa Caribbean Pacific-EU Joint Parliamentary Assembly,about,,300
+460,EUROMED,DELG_JPA,Euro-Mediterranean Parliamentary Assembly,about,,300
+480,EUROLAT,DELG_JPA,Euro-Latin American Parliamentary Assembly,about,,300
