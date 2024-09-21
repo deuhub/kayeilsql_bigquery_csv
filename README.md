@@ -3,7 +3,7 @@ This repository accompanies "Kaye is Learning SQL".
 The contents of this repository are:
 1. a PDF file about how to open a free 3-months Google Cloud Platform (GCP) Account:
    
-   freeGCP_t.pdf
+   freeGCP.pdf
    
 2. a PDF file about how to create a table in Google BigQuery using an existing CSV File:
    
