@@ -7,7 +7,7 @@ The contents of this repository are:
    
 2. a PDF file about how to create a table in Google BigQuery using an existing CSV File:
    
-   googleBigQuery_Table_fromCSV.pdf
+   BigQuery_Table_fromCSV.pdf
    
 3. the CSV files for the Tables of the Training Database of "Kaye is Learning SQL".  
 
